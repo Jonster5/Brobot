@@ -1,0 +1,24 @@
+{
+    "name": "brobot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js",
+        "test": "node bot.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Jonster5/Brobot.git"
+    },
+    "author": "CodePebbl <onlyaccelerating@gmail.com> (https://www.slidemations.com)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Jonster5/Brobot/issues"
+    },
+    "homepage": "https://github.com/Jonster5/Brobot#readme",
+    "dependencies": {
+        "twit": "^2.2.11",
+        "twitter": "^1.7.1"
+    }
+}
